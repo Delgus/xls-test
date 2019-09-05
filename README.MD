@@ -1,3 +1,8 @@
+Включить модули если необходимо
+```bash
+export GO111MODULE=on
+```
+
 Создать файлы отчетов в директории reports
 ```bash
 go run main.go
